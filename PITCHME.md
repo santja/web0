@@ -33,17 +33,17 @@
 - Синтаксис `<имя_тэга атрибут="значение">`
 - Структура [страницы](https://html5book.ru/osnovy-html/#part1)
 - Элементы без закрывающего [тэга](https://w3c.github.io/html/syntax.html#optional-tags)
-- Способ проверить правильность вашего кода – валидатор [html](https://validator.w3.org/)
+- Проверить правильность кода – валидатор [html](https://validator.w3.org/)
 
 ---
 
 ## Основы > Базовые тэги
 
 - [Справочник](https://webref.ru/html)
-- Группирующие и строчные [элементы](https://html5book.ru/block-inline-elements/)
+- [Группирующие и строчные элементы](https://html5book.ru/block-inline-elements/)
 – [Списки](https://html5book.ru/html-lists/)
 – [Таблицы](https://html5book.ru/html-table/)
-- Текстовые [элементы](https://html5book.ru/html-text/#part2)
+- [Текстовые элементы](https://html5book.ru/html-text/#part2)
 
 ---
 
@@ -61,7 +61,7 @@
 
 - `<meta charset="UTF-8">`
 - Про стандарт кодирования символов [Юникод](https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4)
-- Про одну из кодировок, UTF-[8](https://ru.wikipedia.org/wiki/UTF-8)
+- Про одну из кодировок, [UTF-8](https://ru.wikipedia.org/wiki/UTF-8)
 
 ---
 
@@ -69,17 +69,14 @@
 
 - Семантические элементы [HTML5](https://html5book.ru/html5-semantic-elements/)
 - Тонкости использования [заголовков](https://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824)
-- (*) Микроразметка:
-    - один способ размечать – [Microformats](http://microformats.org/wiki/Main_Page)
-    - другой способ – Schema.[org](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml (перевод от яндекса))
-    - [Валидатор](https://webmaster.yandex.ru/tools/microtest/)
+- `(*)` Микроразметка: [Microformats](http://microformats.org/wiki/Main_Page) и [Schema.org](https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml (перевод от яндекса))
 
 ---
 
 ## Введение в HTML > Ссылки
 
 - Устройство [URL](https://ru.wikipedia.org/wiki/URL)
-    - url - это, в частности, то, что в `<a href='...'>` на месте `...`
+- Напоминание: `<a href='тут URL'>`
 - [HTML–ссылки](https://html5book.ru/hyperlinks-in-html/)
 - Anchors and [Links](http://html.com/anchors-links/)
 
@@ -91,8 +88,7 @@
 - [Видео](https://webref.ru/html/video)
 - [Аудио](https://webref.ru/html/audio)
 - Атрибут `alt` для [изображений](http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html)
-- (*) Субтитры для [видео](https://www.html5rocks.com/en/tutorials/track/basics/)
-    - [спецификация](http://w3c.github.io/html/semantics.html#the-track-element)
+- `(*)` Субтитры для [видео](https://www.html5rocks.com/en/tutorials/track/basics/)
 
 ---
 
@@ -102,7 +98,7 @@
 - О [HTML5–формах](https://html5book.ru/html5-forms/)
 - Перечень элементов [форм](https://webref.ru/html/type/form)
 - Подробности о элементе [form](https://webref.ru/html/form)
-- (*) атрибут method [тэга `<form>`](http://htmlbook.ru/html/form/method)
+- `(*)` атрибут method [тэга `<form>`](http://htmlbook.ru/html/form/method)
 
 ---
 
@@ -118,7 +114,7 @@
  - Расстояния: строки, буквы, слова
  - Базовая работа с текстом: выравнивание, цвет
  - Верстка колонками, переполнение (`overflow`)
- - пробелы и переносы
+ - Пробелы и переносы
 
 ---
 
@@ -130,7 +126,7 @@
 
 ---
 
-## (*) Advanced CSS
+## `(*)` Advanced CSS
 
 - о семействах шрифтов
 - псевдо-элементы
