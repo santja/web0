@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+.reveal {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-color: pink !important; /* test */
+}
